@@ -22,7 +22,7 @@
 
 
 .slides-container .caption{position: absolute; width: 100%; top: 50%; margin-top: -120px; text-align: left;line-height: 1.2; color: #fff;}
-.slides-container .caption span{background: #00a99d; background: rgba(0, 169, 157, 0.56); padding: 5px 15px; display: inline-block; }
+.slides-container .caption span{background: #2f89fc73; background: linear-gradient(135deg,#2f89fc73 0%,#55abfb 100%)rgba(28, 187, 180, 0.47); padding: 5px 15px; display: inline-block; }
 .slides-container .caption .txt1{font-weight: 500; font-size: 30px; margin-bottom: 5px;}
 .slides-container .caption .txt2{font-weight: 800; font-size: 45px; margin-bottom: 5px;}
 .slides-container .caption .txt3{font-weight: 400; font-size: 18px;}
